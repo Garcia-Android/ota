@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1656429235,
+      "filename": "divested-UNOFFICIAL-19.1-20220628-dos-davinci-ota.zip",
+      "id": "875b22e1014d4b703288c631152d7d4832cee5501bae92256dceac9c8551103c",
+      "romtype": "UNOFFICIAL",
+      "size": 1109108065,
+      "url": "https://github.com/Garcia-Android/ota/releases/download/DivestOS-davinci-e91a864/divested-UNOFFICIAL-19.1-20220628-dos-davinci-ota.zip",
+      "version": "19.1"
+    }
+  ]
+}
